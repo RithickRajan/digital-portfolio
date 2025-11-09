@@ -33,7 +33,7 @@ yarn-error.log
 /.angular/cache
 .sass-cache/
 /connect.lock
-/package.lock.json
+/package-lock.json
 /coverage
 /libpeerconnection.log
 testem.log
